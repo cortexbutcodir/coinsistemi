@@ -1,0 +1,59 @@
+{
+  "//1": "HypeR",
+  "//2": "Aspect",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "codeland",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bad-words": "^3.0.3",
+    "can": "^6.6.0",
+    "canvacord": "^5.1.0",
+    "captchashi": "^1.0.2",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "covid19-global": "^1.0.2",
+    "daria-gif": "0.0.2",
+    "discord-bots-api": "^0.0.2",
+    "discord.js": "^12.2.0",
+    "distube": "^2.8.12",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "google": "^2.1.0",
+    "google-tts-api": "^2.0.2",
+    "instagram-user": "^2.0.1",
+    "jimp": "^0.16.1",
+    "level-session-store": "^2.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.18",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.1.11",
+    "os": "^0.1.1",
+    "passport": "^0.4.1",
+    "passport-oauth2": "^1.5.0",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "stark-log": "0.0.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^4.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
